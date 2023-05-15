@@ -1,0 +1,16 @@
+I"þ
+<div class="person">
+    <img src="/assets/images/john-doe.jpg" alt="John Doe" />
+    <h2><a href="https://www.example.com/john-doe">John Doe</a></h2>
+    <p>Professor, Computer Science, Visual Computing</p>
+    <p>John Doe is a professor of computer science at SFU. His research interests include AI/ML, graphics, and vision.</p>
+  </div>
+
+<div class="person">
+    <img src="/assets/images/jane-smith.jpg" alt="Jane Smith" />
+    <h2><a href="https://www.example.com/jane-smith">Jane Smith</a></h2>
+    <p>Associate Professor, Interactive Arts and Technology, Interactive Computing</p>
+    <p>Jane Smith is an associate professor of interactive arts and technology at SFU. Her research interests include HCI, visualization, and human-centred design.</p>
+  </div>
+
+:ET
